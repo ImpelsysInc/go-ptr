@@ -1,4 +1,4 @@
-module github.com/ImpelsysInc/ptr
+module github.com/ImpelsysInc/go-ptr
 
 go 1.19
 

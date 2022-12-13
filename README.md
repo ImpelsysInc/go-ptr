@@ -5,7 +5,7 @@
 # Install
 
 ```sh
-go get github.com/ImpelsysInc/ptr
+go get github.com/ImpelsysInc/go-ptr
 ```
 
 # Documentation
